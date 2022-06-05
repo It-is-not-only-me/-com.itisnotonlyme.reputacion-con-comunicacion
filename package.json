@@ -1,12 +1,14 @@
 {
-    "name": "com.itisnotonlyme.nombre",
+    "name": "com.itisnotonlyme.reputacion-con-comunicacion",
     "version": "1.0.0",
-    "displayName": "Nombre Lindo",
-    "description": "Descripcion linda",
+    "displayName": "Reputacion con comunicacion",
+    "description": "Permite que la reputacion se vaya transmitiendo como mensajes en una comunidad, de esta forma reflejando como las acciones se propagan",
     "unity": "2020.3",
     "keywords": [
-      "Key", 
-      "Words"
+      "Reputacion", 
+      "Comunidad",
+      "Comunicacion",
+      "Consecuencias"
     ],
     "author": {
       "name": "Juan Ignacio Biancuzzo",

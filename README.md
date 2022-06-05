@@ -1,2 +1,4 @@
-# Unity-Packages
-Este repositorio va a tener todos los packages que vaya creando para crear mis juegos
+# Reputacion con comunicacion
+---
+
+La idea de este sistema es unir la comunicacion dinamica y el sistema de reputacion, para crear un sistema que propague las acciones del jugador dentro de una comunidad.
