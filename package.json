@@ -1,0 +1,17 @@
+{
+    "name": "com.itisnotonlyme.reputacion-con-comunicacion",
+    "version": "1.0.0",
+    "displayName": "Reputacion con comunicacion",
+    "description": "Permite tener una reputacion que se vaya propagando esa reputacion",
+    "unity": "2020.3",
+    "keywords": [
+      "Comunicacion", 
+      "Reputacion",
+      "Propagar"
+    ],
+    "author": {
+      "name": "Juan Ignacio Biancuzzo",
+      "email": "jbiancuzzo@fi.uba.ar"
+    },
+    "type": "tool"
+  }
