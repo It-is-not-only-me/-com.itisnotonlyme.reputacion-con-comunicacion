@@ -2,5 +2,5 @@
 ---
 
 Tiene las dependiencias
- * Comunicacion dinamica 
- * Sistema de reputacion
+ * Comunicacion dinamica - https://github.com/It-is-not-only-me/com.itisnotonlyme.comunicacion-dinamica.git
+ * Sistema de reputacion - https://github.com/It-is-not-only-me/com.itisnotonlyme.sistema-de-reputacion.git
