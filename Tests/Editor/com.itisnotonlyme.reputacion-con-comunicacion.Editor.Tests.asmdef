@@ -1,18 +1,22 @@
 {
-    "name": "com.itisnotonlyme.reputacion-con-comunicacion.Editor.Tests",
+    "name": "Tests",
     "rootNamespace": "",
     "references": [
-        "GUID:0acc523941302664db1f4e527237feb3",
-        "GUID:27619889b8ba8c24980f49ee34dbb44a",
-        "GUID:9968eccb220617648ac9a9dd1fc0042d"
+        "UnityEngine.TestRunner",
+        "UnityEditor.TestRunner",
+        "com.itisnotonlyme.reputacion-con-comunicacion.Editor"
     ],
     "includePlatforms": [],
     "excludePlatforms": [],
     "allowUnsafeCode": false,
-    "overrideReferences": false,
-    "precompiledReferences": [],
-    "autoReferenced": true,
-    "defineConstraints": [],
+    "overrideReferences": true,
+    "precompiledReferences": [
+        "nunit.framework.dll"
+    ],
+    "autoReferenced": false,
+    "defineConstraints": [
+        "UNITY_INCLUDE_TESTS"
+    ],
     "versionDefines": [],
     "noEngineReferences": false
 }
