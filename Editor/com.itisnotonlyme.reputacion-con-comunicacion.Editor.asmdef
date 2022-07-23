@@ -1,7 +1,10 @@
 {
-    "name": "reputacion-con-comunicacion.Editor",
+    "name": "com.itisnotonlyme.reputacion-con-comunicacion.Editor",
     "rootNamespace": "",
-    "references": [],
+    "references": [
+        "GUID:62742021b2048ff4daaa02ea5c4d49d1",
+        "GUID:e89ea75a162c9fa4aa4cb67b5f7636ed"
+    ],
     "includePlatforms": [
         "Editor"
     ],
